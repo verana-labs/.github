@@ -1,4 +1,4 @@
-# Verana: The Missing Trust Layer
+# The Verana Foundation
 
 The Internet is broken. All existing communication channels are insecure, and obsolete. Because all existing communication channels rely on public identifiers, anyone that knows your identifier can reach you.
 
