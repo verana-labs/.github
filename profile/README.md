@@ -30,4 +30,4 @@ Participants build a Proof-of-Trust reputation over time, and are financially re
 
 ### Open to anyone
 
-Anyone can create a Trust Registry, Credential Schemas, and define who can issue and verify credentials of this schemas.
+Anyone can create a Trust Registry, Credential Schemas, and define who can issue and verify credentials of these schemas.
