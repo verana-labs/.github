@@ -25,31 +25,6 @@ With Verana, you get:
 - 🗝 **True Ownership** — you control your services, data, and audience  
 - 🧭 **Fair Discovery** — be found for what you prove, not what you pay  
 
-## 🏛 Who Uses Verana?
-
-- **Governments** — issue secure digital IDs & licenses  
-- **Healthcare** — verify clinician credentials & cross-border mobility  
-- **Finance** — KYC/AML compliance, verified credit frameworks  
-- **Telecom** — onboarding, proof of number/address  
-- **Education** — diplomas, certifications, lifelong learning  
-- **AI & Web3** — verifiable AI agents, sovereign social channels, decentralized marketplaces  
-- ...
-
-## 🏗 Core Building Blocks
-
-- 📜 **Ecosystem Governance Frameworks (EGFs)** — define rules & policies  
-- 🗂 **Trust Registries** — verifiable sources of “who can issue or verify what”  
-- 📑 **Credential Schemas** — standard formats for digital credentials  
-- 🛠 **Developer Tools** — REST APIs, SDKs, tutorials  
-
-## 🔧 What You Can Build
-
-- 🤖 **Verifiable AI Agents** — trusted, credentialed AI assistants  
-- 📢 **Verifiable Social Channels** — creators own their audiences  
-- 🛒 **E-commerce Services** — discoverable without intermediaries  
-- 🏨 **Hotel & Travel Services** — book directly with verifiable credentials  
-- 💬 **Decentralized Messaging** — portable, verifiable customer support bots  
-
 ## 📚 Learn More
 
 - [Documentation](https://docs.verana.io) — APIs, SDKs, tutorials  
