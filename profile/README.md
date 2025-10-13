@@ -22,8 +22,8 @@ With Verana, you get:
 ## 📚 Learn More
 
 - [Documentation](https://docs.verana.io) — APIs, SDKs, tutorials  
-- [Verifiable Trust Specification](https://docs.verana.io/specs/verifiable-trust) — open standard for verifiable services  
-- [Verifiable Public Registry Specification](https://docs.verana.io/specs/verifiable-public-registry) — decentralized trust registries  
+- [Verifiable Trust Specification](https://verana-labs.github.io/verifiable-trust-spec/) — open standard for verifiable services  
+- [Verifiable Public Registry Specification](https://verana-labs.github.io/verifiable-trust-vpr-spec/) — decentralized trust registries  
 
 ## 🤝 Join the Community
 
