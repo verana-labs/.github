@@ -24,6 +24,9 @@ With Verana, you get:
 - [Documentation](https://docs.verana.io) — APIs, SDKs, tutorials  
 - [Verifiable Trust Specification](https://verana-labs.github.io/verifiable-trust-spec/) — open standard for verifiable services  
 - [Verifiable Public Registry Specification](https://verana-labs.github.io/verifiable-trust-vpr-spec/) — decentralized trust registries  
+- [Verana Foundation](https://veranafoundation.org) — the nonprofit stewarding the project  
+- [Verana Council](https://veranacouncil.org) — governance & decision-making body  
+- [Verana Infrastructure](https://verana.io) — the public trust infrastructure  
 
 ## 🤝 Join the Community
 
